@@ -11,7 +11,7 @@ public class Ex01 {
 		(3)	byte
 		(4)	long
 		
-		정답 : (2)float
+		정답 : (2) float
 			float는 정수형자로형이 아닌 실수형자료형이다.
 		*/
 		
