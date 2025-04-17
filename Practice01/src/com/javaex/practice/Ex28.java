@@ -13,7 +13,6 @@ public class Ex28 {
 		System.out.print("환전할 원화를 입력하세요: ");
 		
 		double money = sc.nextInt();
-		
 		final double dollar = 1230.95;
 		
 		System.out.println("받으실 달러는 " + money/dollar);

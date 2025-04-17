@@ -10,12 +10,10 @@ public class Ex29 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("가로를 입력하세요: ");
-		
+		System.out.print("가로를 입력하세요: ");	
 		double wd = sc.nextDouble();
 		
 		System.out.print("세로를 입력하세요: ");
-		
 		double ht = sc.nextDouble();
 		
 		System.out.println("사각형의 넓이는 "+ wd*ht);

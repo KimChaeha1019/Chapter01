@@ -13,7 +13,6 @@ public class Ex30 {
 		System.out.print("마일을 입력하세요: ");
 		
 		double mile = sc.nextDouble();
-		
 		final double mile1 = 1.609;
 		
 		System.out.println( mile + "마일은 " + mile*mile1 + "킬로미터 입니다.");
