@@ -11,7 +11,7 @@ public class Ex33 {
 		System.out.print("반지름: ");
 		double round = sc.nextDouble();
 		
-		System.out.println("구의부피는: " + (((4/3)*3.14)*(round*round*round)) + "입니다.");
+		System.out.println("구의부피는: " + ((((double)4/3)*3.14)*(round*round*round)) + "입니다.");
 		
 		sc.close();
 		
